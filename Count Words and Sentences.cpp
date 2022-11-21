@@ -4,6 +4,7 @@ int main()
 {
 	char arr[50];
 	int word_count=0,i=0,sentence_count=0;
+	cout<<"Enter a character array: ";
 	cin.getline(arr,50);
 	while(1)
 	{
